@@ -5,7 +5,7 @@
         "api_id": "20579672",
         "api_hash": "0427f969f8f2331b46092649cd7e595c",
         "workers": 8,
-        "db_uri": "mongodb+srv://Rubesh:<doremon>@cluster0.oodiiyk.mongodb.net/?appName=Cluster0",
+        "db_uri": "mongodb+srv://rubesh08virat:rubesh08virat@cluster0.d33p1rm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "Rubesh",
         "fsubs": [[-1003556007801, true, 5]],
         "db": -1003682712944,
@@ -24,3 +24,4 @@
     }
 
 ]
+
