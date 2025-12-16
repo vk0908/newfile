@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://rubesh08virat:rubesh08virat@cluster0.d33p1rm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "Rubesh",
-        "fsubs": [[, true, 5]],
+        "fsubs": [[, ]],
         "db": -1003682712944,
         "auto_del": 0,
         "messages": {
@@ -24,6 +24,7 @@
     }
 
 ]
+
 
 
 
